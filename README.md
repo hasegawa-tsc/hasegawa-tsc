@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - AI駆動開発勉強中
+- Claude Code
+  
 <!--
 **hasegawa-tsc/hasegawa-tsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
